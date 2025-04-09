@@ -20,7 +20,7 @@ We recommend using 128 GiB of RAM.
 Runtime experiments require to be run with Ubuntu OS.
 
 ### Estimated Time and Storage Consumption
-The accuracy tests take about half an hour to complete while runtime experiments should complete faster than that.
+The accuracy tests take a few seconds to complete while runtime experiments should take a few minutes.
 
 ## Environment
 In the following, describe how to access our artifact and all related and necessary data and software components.

@@ -146,6 +146,7 @@ def mish(x):
 
 def main():
     warnings.filterwarnings("ignore")
+    os.makedirs("data", exist_ok=True)
 
     overwrite = True
     precision = 12
