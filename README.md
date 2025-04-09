@@ -35,10 +35,10 @@ compressing the lookup table using discrete wavelet transforms.
 cd accuracy
 ```
 
-2. Create a virtual Python environment.
+2. Create a virtual environment.
 
 ```
-python3 -m venv myenv
+python -m venv myenv
 ```
 
 3. Activate the virtual environment.
@@ -83,7 +83,13 @@ This module is for running time experiments.
 cd experiments
 ```
 
-2. Run the experiments.
+2. Make.
+
+```
+make
+```
+
+3. Run the experiments.
 
 ```
 ./run_all.sh
